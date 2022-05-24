@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "745665924869",
+    "firebase_url": "https://smartplan-testproject-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smartplan-testproject",
+    "storage_bucket": "smartplan-testproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745665924869:android:2dcc3c01bfe7f2c65a316c",
+        "android_client_info": {
+          "package_name": "com.PlanProject.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745665924869-qg05rkgjb6lnjoq0sfq31qh7d911ibpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiJAA7Xu2XWOaQ8nA8tn07L7evZML0TA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745665924869-qg05rkgjb6lnjoq0sfq31qh7d911ibpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
